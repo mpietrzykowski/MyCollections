@@ -1,3 +1,7 @@
+/*
+Author: Marcin Pietrzykowski
+*/
+
 using System.Collections.Generic;
 
 namespace MyCollections {

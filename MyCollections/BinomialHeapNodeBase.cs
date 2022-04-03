@@ -1,3 +1,7 @@
+/*
+Author: Marcin Pietrzykowski
+*/
+
 namespace MyCollections {
     public abstract class BinomialHeapNodeBase<T> {
         

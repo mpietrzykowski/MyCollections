@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+Author: Marcin Pietrzykowski
+*/
+
+using System;
 using System.Collections.Generic;
 
 using MyCollections;
@@ -13,7 +17,6 @@ namespace ConsoleTest
             binomialHeap.Add("ola", 5);
 
             BinomialHeap<int> heap = new();
-
 
             for (int i = 0; i <= 40; i++) {
                 heap.Add(i);

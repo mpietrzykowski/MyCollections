@@ -57,3 +57,6 @@ MyCollections/obj/Debug/net5.0/ref/MyCollections.dll
 .vscode/solution-explorer/interface.ts-template
 .vscode/solution-explorer/template-list.json
 .vscode/solution-explorer/template-parameters.js
+
+.fake
+.ionide

@@ -1,3 +1,7 @@
+/*
+Author: Marcin Pietrzykowski
+*/
+
 namespace MyCollections {
     public sealed class BinomialHeapNode<T> : BinomialHeapNodeBase<T> {
 
